@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/drawable/gradient_color.xml" value="0.205" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/content_main.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_earth.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_jupiter.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_mars.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_mercury.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_neptune.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_saturn.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_uranus.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/ToLearn/app/src/main/res/layout/fragment_venus.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.13333333333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.tolearn.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/mercuryFragment"
+        android:name="com.example.tolearn.MercuryFragment"
+        android:label="fragment_mercury"
+        tools:layout="@layout/fragment_mercury" />
+    <fragment
+        android:id="@+id/venusFragment"
+        android:name="com.example.tolearn.VenusFragment"
+        android:label="fragment_venus"
+        tools:layout="@layout/fragment_venus" />
+    <fragment
+        android:id="@+id/earthFragment"
+        android:name="com.example.tolearn.EarthFragment"
+        android:label="fragment_earth"
+        tools:layout="@layout/fragment_earth" />
+    <fragment
+        android:id="@+id/jupiterFragment"
+        android:name="com.example.tolearn.JupiterFragment"
+        android:label="fragment_jupiter"
+        tools:layout="@layout/fragment_jupiter" />
+    <fragment
+        android:id="@+id/marsFragment"
+        android:name="com.example.tolearn.MarsFragment"
+        android:label="fragment_mars"
+        tools:layout="@layout/fragment_mars" />
+    <fragment
+        android:id="@+id/neptuneFragment"
+        android:name="com.example.tolearn.NeptuneFragment"
+        android:label="fragment_neptune"
+        tools:layout="@layout/fragment_neptune" />
+    <fragment
+        android:id="@+id/saturnFragment"
+        android:name="com.example.tolearn.SaturnFragment"
+        android:label="fragment_saturn"
+        tools:layout="@layout/fragment_saturn" />
+    <fragment
+        android:id="@+id/uranusFragment"
+        android:name="com.example.tolearn.UranusFragment"
+        android:label="fragment_uranus"
+        tools:layout="@layout/fragment_uranus" />
+</navigation>
